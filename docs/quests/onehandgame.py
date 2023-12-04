@@ -25,7 +25,6 @@ space_third=space_fourth
 space_fourth=""
 print("{}/{}/{}/{}/{}" .format(space_first, space_second, space_third, space_fourth, space_fifth))
 
-
 space_fifth=space_second
 space_second=""
 print("{}/{}/{}/{}/{}" .format(space_first, space_second, space_third, space_fourth, space_fifth))
