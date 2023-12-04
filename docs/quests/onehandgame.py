@@ -24,8 +24,10 @@ print("{}/{}/{}/{}/{}" .format(space01, space02, space03, space04, space05))
 space03=space04
 print("{}/{}/{}/{}/{}" .format(space01, space02, space03, space04, space05))
 
+
 space05=space02
 space02=""
 print("{}/{}/{}/{}/{}" .format(space01, space02, space03, space04, space05))
+
 
 
