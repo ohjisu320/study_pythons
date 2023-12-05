@@ -30,4 +30,5 @@
 |Data types|[data_types_booleans.py](./docs/data_types_booleans.py)|if else에 boolean 형식 활용을 위해 boolean data type 학습|
 |Data types|[data_type_numerics.py](./docs/data_type_numerics.py)|사칙연산 및 제곱 학습|
 |If else|[*quests/bmis.py](./docs/quests/bmis.py)|if else|
+|Loops|[*quests/bmis.py](./docs/quests/bmis.py)|if else|
 
