@@ -21,9 +21,10 @@
 |--|--|--|
 ||[onehandgame.py](./docs/quests/onehandgame.py)|.format()|
 |Strings|[strings.py](./docs/strings.py)|split()|
-|User Inputs|[inputs.py](./docs/inputs.py), [inputwiththree_outputcuboid.py](./docs/quests/inputwiththree_outputcuboid.py)|input()|
+|User Inputs|[inputs.py](./docs/inputs.py), [*quests/inputwiththree_outputcuboid.py](./docs/quests/inputwiththree_outputcuboid.py)|input()|
 |Data types|[data_type_casts.py](./docs/data_type_casts.py)|int()|
-|If else|[if_elses.py](./docs/if_elses.py)|if else|
+|If else|[if_elif_elses.py](./docs/if_elif_elses.py)|if else|
 |Data types|[data_types_booleans.py](./docs/data_types_booleans.py)|if else에 boolean 형식 활용을 위해 boolean data type 학습|
-|Data types|[data_type_numerics.py](./docs/data_type_numerics.py)|if else에 boolean 형식 활용을 위해 boolean data type 학습|
+|Data types|[data_type_numerics.py](./docs/data_type_numerics.py)|사칙연산 및 제곱 학습|
+|If else|[*quests/bmis.py](./docs/quests/bmis.py)|if else|
 
