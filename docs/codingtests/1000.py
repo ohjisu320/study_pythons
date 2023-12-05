@@ -4,5 +4,5 @@
 ## 첫째 줄에 A와 B가 주어진다. (0 < A, B < 10)
 # 출력
 ## 첫째 줄에 A+B를 출력한다.
-A, B = map(int, input("A, B").split())
-print(A+B)
+a, b = map(int, input().split())
+print(a+b)

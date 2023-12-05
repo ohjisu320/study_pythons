@@ -13,7 +13,7 @@
 <!-- 링크하기 - 외부 - [name](link) -->
 |구분|소스|문제설명|출처|
 |--|--|--|--|
-|구현|[python](./docs/codingtests/2557.py)|Hello World!를 화면에 출력|[백준 2557](https://www.acmicpc.net/problem/2557)|
+|출력|[python](./docs/codingtests/2557.py)|Hello World!를 화면에 출력|[백준 2557](https://www.acmicpc.net/problem/2557)|
 
 
 ### Study
@@ -23,4 +23,6 @@
 |Strings|[strings.py](./docs/strings.py)|split()|
 |User Inputs|[inputs.py](./docs/inputs.py), [inputwiththree_outputcuboid.py](./docs/quests/inputwiththree_outputcuboid.py)|input()|
 |Data types|[data_type_casts.py](./docs/data_type_casts.py)|int()|
+|If else|[if_elses.py](./docs/if_elses.py)|if else|
+|Data types|[data_types_booleans.py](./docs/data_types_booleans.py)|if else에 boolean 형식 활용을 위해 boolean data type 학습|
 
