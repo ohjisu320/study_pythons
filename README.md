@@ -14,7 +14,10 @@
 |구분|소스|문제설명|출처|
 |--|--|--|--|
 |출력|[python](./docs/codingtests/2557.py)|Hello World!를 화면에 출력|[백준 2557](https://www.acmicpc.net/problem/2557)|
-
+|사칙연산|[python](./docs/codingtests/1000.py)|A+B를 출력|[백준 1000](https://www.acmicpc.net/problem/1000)|
+|사칙연산|[python](./docs/codingtests/1001.py)|A-B를 출력|[백준 1001](https://www.acmicpc.net/problem/1001)|
+|사칙연산|[python](./docs/codingtests/10998.py)|A*B를 출력|[백준 10998](https://www.acmicpc.net/problem/10998)|
+|사칙연산|[python](./docs/codingtests/1008.py)|A/B를 출력|[백준 1008](https://www.acmicpc.net/problem/1008)|
 
 ### Study
 |구분|소스|설명|
