@@ -18,6 +18,7 @@
 |사칙연산|[python](./docs/codingtests/1001.py)|A-B를 출력|[백준 1001](https://www.acmicpc.net/problem/1001)|
 |사칙연산|[python](./docs/codingtests/10998.py)|A*B를 출력|[백준 10998](https://www.acmicpc.net/problem/10998)|
 |사칙연산|[python](./docs/codingtests/1008.py)|A/B를 출력|[백준 1008](https://www.acmicpc.net/problem/1008)|
+|사칙연산|[python](./docs/codingtests/10869.py)|A/B를 출력|[백준 10869](https://www.acmicpc.net/problem/10869)|
 
 ### Study
 |구분|소스|설명|
