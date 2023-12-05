@@ -14,16 +14,13 @@ str_name=="oh jisu"
 if str_name=="oh jisu" : 
     pass
     print("name is {}.".format(str_name))
-else  :
-    pass
 print("End Program!")
 
 # if문의 질문 형식(condition): 변수+부등호+기준값
 #문자에 대한 부정으로 질문
-#false는 if 안에 들어올 수 없음.
 if str_name!="oh jisu" :  
     pass
     print("name is not {}.".format(str_name))
-else  :
-    pass
 print("End Program!")
+
+# 숫자에 대한 판단
