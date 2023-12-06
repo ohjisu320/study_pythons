@@ -47,10 +47,10 @@ list_polls=[ "1. 컴퓨터 운영체제에 대한 선호도는 어떠신가요?"
 
 list_statistics = [0, 0, 0, 0, 0] # 답항만큼 0을 넣어줌
 for num_count in [0,2,4]:
-    # 질문 
+    # 질문 안내
     str_questions = list_polls [num_count]
     print("{}".format(str_questions))
-    # 답변 항목
+    # 답변 안내
     str_answer = list_polls [num_count+1]
     print("{}".format(str_answer))
     # 답변 입력
