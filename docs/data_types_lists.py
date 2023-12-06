@@ -15,4 +15,6 @@ len(list_mix)
 
 #for문 활용 후 다시 오기
 
+# index(색인, 위치값)
+
 pass 

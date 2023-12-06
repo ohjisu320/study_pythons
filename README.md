@@ -18,8 +18,10 @@
 |사칙연산|[python](./docs/codingtests/1001.py)|A-B를 출력|[백준 1001](https://www.acmicpc.net/problem/1001)|
 |사칙연산|[python](./docs/codingtests/10998.py)|A*B를 출력|[백준 10998](https://www.acmicpc.net/problem/10998)|
 |사칙연산|[python](./docs/codingtests/1008.py)|A/B를 출력|[백준 1008](https://www.acmicpc.net/problem/1008)|
-|사칙연산|[python](./docs/codingtests/10869.py)|A/B를 출력|[백준 10869](https://www.acmicpc.net/problem/10869)|
-
+|사칙연산|[python](./docs/codingtests/10869.py)|A+B, A-B, A*B, A/B(몫), A%B(나머지)를 출력|[백준 10869](https://www.acmicpc.net/problem/10869)|
+|구현|[python](./docs/codingtests/10926.py)|아이디 뒤에 ??!를 붙여서 나타낸다|[백준 10926](https://www.acmicpc.net/problem/10926)|
+|구현|[python](./docs/codingtests/18108.py)|불기 연도를 서기 연도로 변환한 결과를 출력|[백준 18108](https://www.acmicpc.net/problem/18108)|
+|수학/구현/사칙연산|[python](./docs/codingtests/10430.py)|세 수 A, B, C가 주어졌을 때, 위의 네 가지 값을 구하는 프로그램을 작성|[백준 10430](https://www.acmicpc.net/problem/10430)|
 ### Study
 |구분|소스|설명|
 |--|--|--|
