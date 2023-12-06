@@ -5,3 +5,4 @@ num_input=int(str_input)
 for loop in numbering:
     pass
     print("{}".format(loop*input))
+print("End Program")
