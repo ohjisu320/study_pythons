@@ -33,5 +33,5 @@
 |If else|[*quests/bmis.py](./docs/quests/bmis.py)|if else|
 |Loops|[loops_while.py](./docs/loops_while.py)|while|
 |Loops|[*quests/timestables.py](./docs/quests/timestables.py)|while|
-|Loops|[loops_fors.py](./docs/loops_fors.py)|for|
+|Loops|[loops_fors.py](./docs/loops_fors.py) [*quests/timestables_fors.py](./docs/quests/timestables_fors.py)|for|
 
