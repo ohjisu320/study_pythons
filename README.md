@@ -40,5 +40,7 @@
 |Loops|[loops_fors.py](./docs/loops_fors.py) / [*quests/timestables_fors.py](./docs/quests/timestables_fors.py)|for|
 |Loops|[*quests/polls_first_jisu.py](https://github.com/entangelk/Toy_pythons/blob/main/docs/polls_first_jisu.py)|문답 만들기|
 |Averages|[*quests/polls_second_jisu.py](https://github.com/entangelk/Toy_pythons/blob/main/docs/polls_second/polls_second_jisu.py)|가중평균 구하기|
+|Functions|[functions_form.py](./docs/functions_form.py)|function의 기본 form|
+|Functions|[functions_returns.py](./docs/functions_returns.py)|function - return|
 
 
