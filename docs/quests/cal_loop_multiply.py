@@ -17,7 +17,7 @@ while q_sign_input!='q' :
     # 곱셈 값 입력
     cal_first=int(input("multiply first : "))
     cal_second=int(input("multiply second : "))
-    # 곱셈 값 출력
+    # 곱셈 값 출력1
     cal_multiply = multiply(cal_first, cal_second)
     print_multiply_result=print("multiply result : {}".format(cal_multiply))
     q_sign_input=input("종료하려면 q를 입력하세요 : ")
