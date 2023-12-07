@@ -42,5 +42,6 @@
 |Averages|[*quests/polls_second_jisu.py](https://github.com/entangelk/Toy_pythons/blob/main/docs/polls_second/polls_second_jisu.py)|가중평균 구하기|
 |Functions|[functions_form.py](./docs/functions_form.py)|function의 기본 form|
 |Functions|[functions_returns.py](./docs/functions_returns.py)|function - return|
+|Functions|[functions_parameters.py](./docs/functions_parameters.py)|function - parameters|
 
 
