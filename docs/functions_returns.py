@@ -1,5 +1,6 @@
+## call by value -  묶음처리:재사용가능
 ## 나오는 값 처리
-
+## return 뒤에 있는 '값'만 나온다는 것 유념
 
 def add():
     first = 5
@@ -35,3 +36,12 @@ def multiply():
     return result
 num_multiply = multiply()
 print("num_multiply() return value : {}".format(num_multiply))
+
+list_fruits = ["melon", "apple", "banana", "cherry"]
+list_fruits[0]
+
+def return_list() :
+    list_fruits = ["melon", "apple", "banana", "cherry"]
+    return list_fruits
+print_list=return_list()
+print("return_list() return result : {}".format(print_list))
