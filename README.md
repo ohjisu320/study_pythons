@@ -22,6 +22,8 @@
 |구현|[python](./docs/codingtests/10926.py)|아이디 뒤에 ??!를 붙여서 나타낸다|[백준 10926](https://www.acmicpc.net/problem/10926)|
 |구현|[python](./docs/codingtests/18108.py)|불기 연도를 서기 연도로 변환한 결과를 출력|[백준 18108](https://www.acmicpc.net/problem/18108)|
 |수학/구현/사칙연산|[python](./docs/codingtests/10430.py)|세 수 A, B, C가 주어졌을 때, 위의 네 가지 값을 구하는 프로그램을 작성|[백준 10430](https://www.acmicpc.net/problem/10430)|
+|수학/사칙연산|[python](./docs/codingtests/2588.py)|(세 자리 수) × (세 자리 수)의 파생값 출력|[백준 2588](https://www.acmicpc.net/problem/2588)|
+|수학/구현/사칙연산|[python](./docs/codingtests/11382.py)|A+B+C의 값을 출력|[백준 11382](https://www.acmicpc.net/problem/11382)|
 ### Study
 |구분|소스|설명|
 |--|--|--|
