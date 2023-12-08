@@ -14,6 +14,5 @@ def stop() : # 종료할지 말지 결정하는 function
         print("End Program!")
 
 # 초기 user input
-str_input=input("구구단 몇단 : ")
-# timestables() 실행
-timestables(int(str_input))
+stop()
+
