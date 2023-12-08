@@ -1,9 +1,31 @@
-# 곱셈 계산기
-def multiply(num_first, num_second): # 입력하는 값
-    multiply_result=num_first*num_second
-    return multiply_result # 나오는 값
-# 출력기
-def printer(multiply)
+
+def printer():
+    cal_number=int(input("multifly first : ")), int(input("multifly second : "))
+    cal_multiply = cal_number[0]*cal_number[1]
+    print_multiply_result=print("multiply result : {}".format(cal_multiply))
+    end=input("종료하려면 q를 입력해주세요 : ")
+    return end
+
+def end_master() :
+    if endsign =="q" :
+        print("End Program!")
+    else :
+        return printer()
+
+
+printer()
+endsign=printer()
+end_master()
+
+# # 곱셈 계산기
+# def multiply(num_first, num_second): # 입력하는 값
+#     multiply_result=num_first*num_second
+#     return multiply_result # 나오는 값
+# # 출력기
+
+
+
+# multiply()
 
 # while True :
 #     if q_sign_input!="q" :
