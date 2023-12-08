@@ -1,4 +1,4 @@
-
+# 곱셈 계산기
 def printer():
     cal_number=int(input("multifly first : ")), int(input("multifly second : "))
     cal_multiply = cal_number[0]*cal_number[1]
@@ -6,6 +6,7 @@ def printer():
     end=input("종료하려면 q를 입력해주세요 : ")
     return end
 
+# end_mastrer작동되지 않음.
 def end_master() :
     if endsign =="q" :
         print("End Program!")
