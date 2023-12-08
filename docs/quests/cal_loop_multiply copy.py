@@ -8,15 +8,14 @@ def printer():
 
 # end_mastrer작동되지 않음.
 def end_master() :
-    if endsign =="q" :
-        print("End Program!")
-    else :
-        return printer()
+    while endsign !="q" :
+        printer()
+    return print("End Program!")
 
 
-printer()
 endsign=printer()
-end_master()
+end_master(endsign)
+
 
 # # 곱셈 계산기
 # def multiply(num_first, num_second): # 입력하는 값
