@@ -43,5 +43,7 @@
 |Functions|[functions_form.py](./docs/functions_form.py)|function의 기본 form|
 |Functions|[functions_returns.py](./docs/functions_returns.py)|function - return|
 |Functions|[functions_parameters.py](./docs/functions_parameters.py)|function - parameters|
+|Functions|[*quest*/timestables_function.py](./docs/)|function - parameters|
+
 
 
