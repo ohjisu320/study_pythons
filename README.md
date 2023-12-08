@@ -34,16 +34,16 @@
 |If else|[if_elif_elses.py](./docs/if_elif_elses.py)|if else|
 |Data types|[data_types_booleans.py](./docs/data_types_booleans.py)|if else에 boolean 형식 활용을 위해 boolean data type 학습|
 |Data types|[data_type_numerics.py](./docs/data_type_numerics.py)|사칙연산 및 제곱 학습|
-|If else|[*quests/bmis.py](./docs/quests/bmis.py)|if else|
+|If else|[*quests*/bmis.py](./docs/quests/bmi.py)|if else|
 |Loops|[loops_while.py](./docs/loops_while.py)|while|
-|Loops|[*quests/timestables.py](./docs/quests/timestables.py)|while|
+|Loops|[*quests*/timestables.py](./docs/quests/timestables.py)|while|
 |Loops|[loops_fors.py](./docs/loops_fors.py) / [*quests/timestables_fors.py](./docs/quests/timestables_fors.py)|for|
-|Loops|[*quests/polls_first_jisu.py](https://github.com/entangelk/Toy_pythons/blob/main/docs/polls_first_jisu.py)|문답 만들기|
-|Averages|[*quests/polls_second_jisu.py](https://github.com/entangelk/Toy_pythons/blob/main/docs/polls_second/polls_second_jisu.py)|가중평균 구하기|
+|Loops|[*quests*/polls_first_jisu.py](https://github.com/entangelk/Toy_pythons/blob/main/docs/polls_first_jisu.py)|문답 만들기|
+|Averages|[*quests*/polls_second_jisu.py](https://github.com/entangelk/Toy_pythons/blob/main/docs/polls_second/polls_second_jisu.py)|가중평균 구하기|
 |Functions|[functions_form.py](./docs/functions_form.py)|function의 기본 form|
 |Functions|[functions_returns.py](./docs/functions_returns.py)|function - return|
 |Functions|[functions_parameters.py](./docs/functions_parameters.py)|function - parameters|
-|Functions|[*quest*/timestables_function.py](./docs/)|function - parameters|
+|Functions|[*quests*/timestables_function.py](./docs/quests/timestables_function.py)|function - 응용|
 
 
 

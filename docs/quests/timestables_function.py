@@ -1,9 +1,9 @@
 #source from [study_pythons/docs/quests/timestables_fors.py]
 
 def timestables(x) : # 'x'에 user의 input 받음
-    numbering=[0, 1, 2, 3, 5,  6, 7, 8] # 9단까지만 실행
+    numbering=[1, 2, 3, 5,  6, 7, 8, 9] # 9단까지만 실행
     for loop in numbering: # 9단까지 반복 실행
-        print("{}*{}={}".format(x, loop+1,(loop+1)*x)) # 구구단 포맷-출력/계산
+        print("{}*{}={}".format(x, loop,(loop)*x)) # 구구단 포맷-출력/계산
     return stop() # 이후 무조건 stop() 실행시키기 위해 return stop()
 
 def stop() : # 종료할지 말지 결정하는 function
