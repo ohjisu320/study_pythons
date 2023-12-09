@@ -29,7 +29,8 @@
 |--|--|--|
 ||[onehandgame.py](./docs/quests/onehandgame.py)|.format()|
 |Strings|[strings.py](./docs/strings.py)|split()|
-|User Inputs|[inputs.py](./docs/inputs.py) / [*quests/inputwiththree_outputcuboid.py](./docs/quests/inputwiththree_outputcuboid.py)|input()|
+|User Inputs|[inputs.py](./docs/inputs.py) / [*quests/inputwiththree_outputcuboid.py](./docs/quests/inputwiththree_outputcuboid.py) / [outputs.py](./docs/outputs.py)|input() / .format()|
+|Data types|[data_types_strings.py](./docs/data_types_strings.py)|str|
 |Data types|[data_type_casts.py](./docs/data_type_casts.py)|int()|
 |If else|[if_elif_elses.py](./docs/if_elif_elses.py)|if else|
 |Data types|[data_types_booleans.py](./docs/data_types_booleans.py)|if else에 boolean 형식 활용을 위해 boolean data type 학습|
@@ -37,7 +38,9 @@
 |If else|[*quests*/bmis.py](./docs/quests/bmi.py)|if else|
 |Loops|[loops_while.py](./docs/loops_while.py)|while|
 |Loops|[*quests*/timestables.py](./docs/quests/timestables.py)|while|
-|Loops|[loops_fors.py](./docs/loops_fors.py) / [*quests/timestables_fors.py](./docs/quests/timestables_fors.py)|for|
+|Loops|[loops_fors.py](./docs/loops_fors.py) / [*quests/timestables_fors.py](./docs/quests/timestables_fors.py) [try.py](./docs/try.py)|for|
+|Data types|[data_types_lists.py](./docs/data_types_lists.py)|datatype - list(for과 연관)|
+|Loops|[*quests*/cal_loop_multiply.py](./docs/quests/cal_loop_multiply.py)|for - 곱셈계산기|
 |Loops|[*quests*/polls_first_jisu.py](https://github.com/entangelk/Toy_pythons/blob/main/docs/polls_first_jisu.py)|문답 만들기|
 |Averages|[*quests*/polls_second_jisu.py](https://github.com/entangelk/Toy_pythons/blob/main/docs/polls_second/polls_second_jisu.py)|가중평균 구하기|
 |Functions|[functions_form.py](./docs/functions_form.py)|function의 기본 form|
