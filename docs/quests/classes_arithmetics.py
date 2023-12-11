@@ -4,18 +4,21 @@
 class Arithmetics :
     def add(self, first, second): 
         result = first+second
-        return print(result)  
+        return result 
     def minus(self, first, second) :
         result = first-second
-        return print(result)
-    def muliply(self, first, second): 
+        return result
+    def multiply(self, first, second): 
         result = first*second
-        return print(result)  
+        return result  
     def division(self, first, second) :
         result = first/second
-        return (result)
+        return result
 
 arithmetics=Arithmetics()
-print(arithmetics.minus(5, 6))
-print(arithmetics.muliply(5, 6))
-print(arithmetics.division(5, 6))
+first=int(input("first : "))
+second=int(input("second : "))
+
+print("{}-{}={}".format(first, second, arithmetics.minus(first, second)))
+print("{}*{}={}".format(first, second, arithmetics.multiply(first, second)))
+print("{}/{}={}".format(first, second, arithmetics.division(first, second)))
