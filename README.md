@@ -32,7 +32,7 @@
 |User Inputs|[inputs.py](./docs/inputs.py) / [*quests/inputwiththree_outputcuboid.py](./docs/quests/inputwiththree_outputcuboid.py) / [outputs.py](./docs/outputs.py)|input() / .format()|
 |Data types|[data_types_strings.py](./docs/data_types_strings.py)|str|
 |Data types|[data_type_casts.py](./docs/data_type_casts.py)|int()|
-|If else|[if_elif_elses.py](./docs/if_elif_elses.py)|if else|
+|If else|[if_elif_elses.py](./docs/if_elif_elses.py)|if elif else문 + 논리연산자(and, or, not)|
 |Data types|[data_types_booleans.py](./docs/data_types_booleans.py)|if else에 boolean 형식 활용을 위해 boolean data type 학습|
 |Data types|[data_type_numerics.py](./docs/data_type_numerics.py)|사칙연산 및 제곱 학습|
 |If else|[*quests*/bmis.py](./docs/quests/bmi.py)|if else|

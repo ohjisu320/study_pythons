@@ -65,3 +65,49 @@ else :               # 나머지 F
     print("{}점은 80점 이하이므로 F 학점.".format(my_score))
     pass
 print("End Program!")
+
+# 부등호 사용 시 결과는 True or False (Boolean)
+
+
+# if - elif - else
+# 점수에 따른 표시
+# 90점 이상: A, 80점 초과: B, 나머지 F
+
+my_score=90
+my_score>=90
+#True
+my_score=80
+my_score>80
+# False
+
+# 컴퓨터는 condition을 판단할 때 논리 연산자(True or False)를 사용함.  
+# 현재 값이 75점 이상부터 85점 이하는 C 학점이다.
+
+# 논리(=True or False) 연산자(결과값)
+# and : 1 and 1 --> 1, 나머지는 0
+# or : 0 or 0 --> 0, 나머지는 1
+# not : --> 반대로 변환 : False --> True / True --> False 
+
+# 논리 연산자(True or False에 대한 결과값)
+first = 200
+second = 33
+third = 500
+
+# conditon 사용 전에는 각각 conditon의 결과값을 확인하기
+first > second
+# True
+third > first
+# True
+(first > second) and (third > first)
+# True
+
+if (first > second) and (third > first) :
+    print("Both conditions are True")
+    pass
+
+if not (first < second) :
+    print("first > second")
+    pass
+
+print("End Program!")
+
