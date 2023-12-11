@@ -2,23 +2,20 @@
 # 뺄셈 곱셈 나눗셈 실행
 
 class Arithmetics :
-    def __init__(self) : # 생성자(class가 갖고 있는 자원(function))
-        pass
-
-    def add(self, first, second): # 호출 시 변수에 값이 할당됨
+    def add(self, first, second): 
         result = first+second
         return print(result)  
     def minus(self, first, second) :
         result = first-second
         return print(result)
-    def muliply(self, first, second): # 호출 시 변수에 값이 할당됨
+    def muliply(self, first, second): 
         result = first*second
         return print(result)  
     def division(self, first, second) :
         result = first/second
-        return print(result)
+        return (result)
 
 arithmetics=Arithmetics()
-arithmetics.minus(5, 6)
-arithmetics.muliply(5, 6)
-arithmetics.division(5, 6)
+print(arithmetics.minus(5, 6))
+print(arithmetics.muliply(5, 6))
+print(arithmetics.division(5, 6))
