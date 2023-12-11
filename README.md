@@ -43,10 +43,11 @@
 |Loops|[*quests*/cal_loop_multiply.py](./docs/quests/cal_loop_multiply.py)|for - 곱셈계산기|
 |Loops|[*quests*/polls_first_jisu.py](https://github.com/entangelk/Toy_pythons/blob/main/docs/polls_first_jisu.py)|문답 만들기|
 |Averages|[*quests*/polls_second_jisu.py](https://github.com/entangelk/Toy_pythons/blob/main/docs/polls_second/polls_second_jisu.py)|가중평균 구하기|
-|Functions|[functions_form.py](./docs/functions_form.py)|function의 기본 form|
+|Functions|[functions_formats.py](./docs/functions_formats.py)|function의 format|
 |Functions|[functions_returns.py](./docs/functions_returns.py)|function - return|
 |Functions|[functions_parameters.py](./docs/functions_parameters.py)|function - parameters|
 |Functions|[*quests*/timestables_function.py](./docs/quests/timestables_function.py)|function - 응용|
+|Classes|[classes_format.py](./docs/classes_format.py)|class, def()|
 
 
 
