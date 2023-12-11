@@ -6,6 +6,10 @@
 # 출력
 # # 고양이를 출력한다.
 def cat() :
-    print("{}\n{}\n{}".format("\    /\  "," )  ( ')"," (  /  )"," \(__)|"))
+    first = "\    /\ "
+    second = " )  ( ')"
+    third = "(  /  )"
+    fourth = " \(__)|"
+    print("{}\n{}\n{}\n{}".format( first, second, third, fourth))
     
 cat()
