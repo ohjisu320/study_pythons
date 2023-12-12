@@ -10,8 +10,8 @@ numerics = [0, 1, 2, 3, 4] #5개 값으로 이루어진 list
 #     print(number)
 
 # 기본 문형
-# for x in [] :
-#     pass
+for x in [] :
+    pass
 
 # 문자 3개 값들로 이루어진 list
 # 위치값-index는 0부터 - 0부터 counting됨

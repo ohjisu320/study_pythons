@@ -30,6 +30,24 @@ list_fruits [3]
 #   File "<string>", line 1, in <module>
 # IndexError: list index out of range    -->   ## index에서 벗어났다는 의미
 
+# list 초기화 방식
+list_fruits_primitive = ["melon", "apple", "banana", "cherry"]
+tuple_fruits = ("melon", "apple", "banana", "cherry")
+list_fruits_constructor = list((tuple_fruits))
 
-
+type(list_fruits_primitive)
+# <class 'list'>
+type(tuple_fruits)
+# <class 'tuple'>
+type(list_fruits_constructor)
+# <class 'list'>
+# append()
+list_fruits_primitive.append('strawberry')
+list_fruits_constructor.append('watermelon')
+# remove() - 삭제 대상이 해당 값이 있는 item
+list_fruits_primitive.remove('apple')
+# list_fruits_primitive = ["melon", "banana", "cherry", "strawberry"]
+# clear() - 삭제 대상이 전체 item
+list_fruits_primitive.clear()
+# list_fruits_primitive = []
 pass 

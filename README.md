@@ -39,7 +39,7 @@
 |Loops|[loops_while.py](./docs/loops_while.py)|while|
 |Loops|[*quests*/timestables.py](./docs/quests/timestables.py)|while|
 |Loops|[loops_fors.py](./docs/loops_fors.py) / [*quests/timestables_fors.py](./docs/quests/timestables_fors.py) [try.py](./docs/try.py)|for|
-|Data types|[data_types_lists.py](./docs/data_types_lists.py)|datatype - list(for과 연관)|
+|Data types|[data_types_lists.py](./docs/data_types_lists.py)|datatype - list(for과 연관) / .append(), remove(), clear()|
 |Loops|[*quests*/cal_loop_multiply.py](./docs/quests/cal_loop_multiply.py)|for - 곱셈계산기|
 |Loops|[*quests*/polls_first_jisu.py](https://github.com/entangelk/Toy_pythons/blob/main/docs/polls_first_jisu.py)|문답 만들기|
 |Averages|[*quests*/polls_second_jisu.py](https://github.com/entangelk/Toy_pythons/blob/main/docs/polls_second/polls_second_jisu.py)|가중평균 구하기|
@@ -48,6 +48,10 @@
 |Functions|[functions_parameters.py](./docs/functions_parameters.py)|function - parameters|
 |Functions|[*quests*/timestables_function.py](./docs/quests/timestables_function.py)|function - 응용|
 |Classes|[classes_formats.py](./docs/classes_formats.py)|class, def()|
+|Classes|[classes_RPGgames.py](./docs/classes_RPGgames.py)|class 재활용 방법|
+|Classes|[classes_modules.py](./docs/classes_modules.py)|class - module|
+|Classes|[classes_importsfrombuilt-in.py](./docs/classes_importsfrombuilt-in.py)|imports from built in|
+|Data types|[data_type_dictionaries.py](./docs/data_type_dictionaries.py)|dictionary 학습|
 
 
 
