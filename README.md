@@ -47,7 +47,7 @@
 |Functions|[functions_returns.py](./docs/functions_returns.py)|function - return|
 |Functions|[functions_parameters.py](./docs/functions_parameters.py)|function - parameters|
 |Functions|[*quests*/timestables_function.py](./docs/quests/timestables_function.py)|function - 응용|
-|Classes|[classes_format.py](./docs/classes_format.py)|class, def()|
+|Classes|[classes_formats.py](./docs/classes_formats.py)|class, def()|
 
 
 
