@@ -52,6 +52,10 @@
 |Classes|[classes_modules.py](./docs/classes_modules.py)|class - module|
 |Classes|[classes_importsfrombuilt-in.py](./docs/classes_importsfrombuilt-in.py)|imports from built in|
 |Data types|[data_type_dictionaries.py](./docs/data_type_dictionaries.py)|dictionary 학습|
+|Try excepts|[exception_handling.py](./docs/exception_handling.py)|Try excepts문 학습|
+|Basic form|[syntax_bases.py](./docs/syntax_bases.py)|if __name__=="__main__"을 포함한 코드 기본 형식 정립 finals|
+|Basic form|[functions_main.py](./docs/functions_main.py)[functions_main.py](./docs/functions_parameters.py)|위 내용의 예제(기본구문)|
+
 
 
 
