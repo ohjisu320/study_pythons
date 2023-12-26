@@ -19,7 +19,7 @@ def dice(fir_dice, sec_dice, thi_dice):
     elif fir_dice == sec_dice :
         prize = 1000+fir_dice*100
     elif sec_dice == thi_dice :
-        prize = 1000+fir_dice*100
+        prize = 1000+sec_dice*100
     elif fir_dice == thi_dice :
         prize = 1000+fir_dice*100
     elif fir_dice != sec_dice != thi_dice :
