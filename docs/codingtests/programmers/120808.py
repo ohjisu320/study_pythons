@@ -6,10 +6,12 @@
 def solution(numer1, denom1, numer2, denom2):
     numer3 = numer1*denom2+numer2*denom1
     denom3 = denom1*denom2
-    while numer3//denom3 <=0 :
-        count = int(numer3/denom3)
-        numer3=int(numer3/count)
-        denom3=int(denom3/count)
+    count = numer3/denom3
+    while type(count)== int and type(numer3)== int and type(denom3)== int :
+        print("int")
+        count = numer3/denom3
+        numer3=(numer3/count)
+        denom3=(denom3/count)
     answer = [numer3, denom3]
     return answer
 
