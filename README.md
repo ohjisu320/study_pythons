@@ -55,7 +55,13 @@
 |Try excepts|[exception_handling.py](./docs/exception_handling.py)|Try excepts문 학습|
 |Basic form|[syntax_bases.py](./docs/syntax_bases.py)|if __name__=="__main__"을 포함한 코드 기본 형식 정립 finals|
 |Basic form|[functions_main.py](./docs/functions_main.py)[functions_main.py](./docs/functions_parameters.py)|위 내용의 예제(기본구문)|
-
+|Data types|[data_types_datetime.py](./docs/data_types_datetime.py)|datetime에 대한 이해|
+|Servers|[demo_servers.py](./docs/demo_servers.py)|항시 응답 프로그램 만들기|
+|Servers|[functions_callbacks.py](./docs/functions_callbacks.py)|callback function 만들기(펑션과 호출 값을 같이 call)|
+|Functions|[functions_callbacks.py](./docs/functions_callbacks.py)|callback function 만들기(펑션과 호출 값을 같이 call)|
+|Loops|[loops_fors_comprehenstion.py](./docs/loops_fors_comprehenstion.py)|압축된 for문 만들기 with lambda|
+|Arguments|[params_kwargs.py](./docs/params_kwargs.py)|kwargs 이해 **kwargs는 (키워드=특정 값) 형태로 함수 호출 가능|
+|Functions|[functions_lambdas.py](./docs/functions_lambdas.py)|압축된 function 만들기|
 
 
 
